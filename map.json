@@ -350,7 +350,40 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "class":"",
+                 "height":41.6660108214462,
+                 "id":27,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Welcome to the hybrides.lernatelier! Here you can access the online components of our Raum 003. Use your avatar to explore the different coloured zones:\n\n",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":671.057058534186,
+                 "x":32.7941465814068,
+                 "y":904.695769798328
+                }, 
+                {
+                 "class":"",
+                 "height":19,
+                 "id":28,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#0000ff",
+                     "text":"The Blue Zone: BigBlueButton Video Conference",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":354.992129857354,
+                 "x":31.5349237579931,
+                 "y":957.583128381702
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -477,7 +510,7 @@
          "y":0
         }],
  "nextlayerid":55,
- "nextobjectid":27,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "properties":[
         {
